@@ -1,0 +1,4 @@
+[23-Apr-2017 23:26:14 America/Chicago] PHP Parse error:  syntax error, unexpected ''</span></p></div>' (T_CONSTANT_ENCAPSED_STRING) in /home/ziksaaccount/public_html/ziksa_api/sendEmailParticipantsFeedback.php on line 226
+[05-May-2017 00:27:20 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ziksaaccount/public_html/ziksa_api/signup.php on line 35
+[05-May-2017 00:27:29 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ziksaaccount/public_html/ziksa_api/signup.php on line 35
+[05-May-2017 00:27:43 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ziksaaccount/public_html/ziksa_api/signup.php on line 35
